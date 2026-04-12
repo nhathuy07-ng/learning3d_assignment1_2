@@ -96,8 +96,20 @@ T_relative = [0, 0, 0]
 
 ### 5.1 Rendering Point Clouds
 
+> *From left to right: Point cloud for image 1, image 2, combined*
+
 <div style="display: flex; gap: 10px">
 <img src="outputs/spinning_cloudpoint_1.gif" height=300>
 <img src="outputs/spinning_cloudpoint_2.gif" height=300>
 <img src="outputs/spinning_cloudpoint_combined.gif" height=300>
 </div>
+
+### 5.2 Parametric Functions
+
+1. Torus
+
+<img src='outputs/spinning_torus_pointcloud.gif' height=300>
+
+2. Hyperboloid
+
+<img src='outputs/spinning_hyperboloid_pointcloud.gif' height=300>
