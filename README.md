@@ -92,4 +92,4 @@ T_relative = [0, 0, 0]
 
 <img src="outputs/cow_transform_4.png" height=300>
 
-## 5. 
+## 5. Rendering Point Clouds
