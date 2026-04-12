@@ -92,4 +92,12 @@ T_relative = [0, 0, 0]
 
 <img src="outputs/cow_transform_4.png" height=300>
 
-## 5. Rendering Point Clouds
+## 5. Rendering Generic 3D Representations
+
+### 5.1 Rendering Point Clouds
+
+<div style="display: flex; gap: 10px">
+<img src="outputs/spinning_cloudpoint_1.gif" height=300>
+<img src="outputs/spinning_cloudpoint_2.gif" height=300>
+<img src="outputs/spinning_cloudpoint_combined.gif" height=300>
+</div>
