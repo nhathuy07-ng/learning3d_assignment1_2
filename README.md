@@ -113,3 +113,13 @@ T_relative = [0, 0, 0]
 2. Hyperboloid
 
 <img src='outputs/spinning_hyperboloid_pointcloud.gif' height=300>
+
+### 5.3 Implicit Surface
+
+1. Torus
+
+<img src='outputs/torus_implicit copy.gif' height=300>
+
+2. Hyperboloid
+
+<img src='outputs/hyperboloid_implicit.gif' height=300>
