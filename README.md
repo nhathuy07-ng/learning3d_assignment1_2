@@ -116,10 +116,47 @@ T_relative = [0, 0, 0]
 
 ### 5.3 Implicit Surface
 
-1. Torus
+<br>
+
+
+1\. Torus
 
 <img src='outputs/torus_implicit copy.gif' height=300>
 
-2. Hyperboloid
+<br>
+
+2\. Hyperboloid
 
 <img src='outputs/hyperboloid_implicit.gif' height=300>
+
+<br>
+
+3\. Trade-offs between rendering a mesh vs a point cloud
+
+> Discuss some of the tradeoffs between rendering as a mesh vs a point cloud. Things to consider might include rendering speed, rendering quality, ease of use, memory usage, etc.
+
+- Point clouds:
+    + Higher rendering quality (by being able to capture fine details and textures)
+    + Higher memory usage (especially for rendering dense regions of point cloud)
+    + Lower ease-of-use (point cloud must be pre-processed before it can be used in 3D applications)
+    + Lower rendering speed
+
+- Meshes:
+    + Lower rendering quality
+    + Lower memory usage
+    + Higher ease-of-use
+    + Higher rendering speed
+
+## 6. Do Something Fun
+
+
+## 7. Sampling Points on Meshes
+
+> Sampling to cloud point: 10, 100, 1000, 10000 and 100000 points.
+
+<img src='cow_og.gif' height=300>
+<img src='outputs/cow_10.gif' height=300>
+<img src='outputs/cow_100.gif' height=300>
+<img src='outputs/cow_1000.gif' height=300>
+<img src='outputs/cow_10000.gif' height=300>
+<img src='outputs/cow_100000.gif' height=300>
