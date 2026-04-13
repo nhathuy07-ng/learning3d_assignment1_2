@@ -148,7 +148,7 @@ T_relative = [0, 0, 0]
     + Higher rendering speed
 
 ## 6. Do Something Fun
-
+<img src='outputs/ufo.gif' height=300>
 
 ## 7. Sampling Points on Meshes
 
